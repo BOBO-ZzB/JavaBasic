@@ -11,6 +11,8 @@ public class StringBufferTest {
         sb.reverse();
         sb.insert(1,"bobo");
         System.out.println(sb);
+        System.out.println(sb);
+        System.out.println(sb);
         System.out.println(sb.delete(1,5));
         System.out.println(sb.replace(1,5,""));
     }
