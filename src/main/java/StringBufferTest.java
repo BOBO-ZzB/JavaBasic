@@ -16,6 +16,7 @@ public class StringBufferTest {
         System.out.println("hello,sb");
         System.out.println(sb.delete(1,5));
         System.out.println(sb.replace(1,5,""));
+        System.out.println("我是傻逼");
     }
 
 }
