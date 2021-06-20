@@ -9,7 +9,7 @@ public class String_t {
         System.out.println(s1.equals(s3));*/
 
         String s1 = "abc";
-        String s2 = new String("abc");
+        String s2 = "abc";
         char [] ca = {'a','b','c'};
         String s3 = new String(ca);
         System.out.println(s3);
