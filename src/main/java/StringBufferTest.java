@@ -22,6 +22,7 @@ public class StringBufferTest {
         System.out.println("我是傻逼");
         System.out.println("我是傻逼");
         System.out.println("我是傻逼");
+        System.out.println("我叼你妈的！！！");
     }
 
 }
